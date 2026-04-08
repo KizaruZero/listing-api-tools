@@ -1,0 +1,170 @@
+[
+  {
+    "service": "Invoice Management",
+    "method": "GET",
+    "endpoint": "/api/mock-sap/list",
+    "auth": "N"
+  },
+  {
+    "service": "Invoice Management",
+    "method": "GET",
+    "endpoint": "/api/mock-sap/detail-all-status",
+    "auth": "N"
+  },
+  {
+    "service": "Invoice Management",
+    "method": "GET",
+    "endpoint": "/api/delivery-notes/list",
+    "auth": "N"
+  },
+  {
+    "service": "Invoice Management",
+    "method": "GET",
+    "endpoint": "/api/delivery-notes/detail",
+    "auth": "N"
+  },
+  {
+    "service": "Invoice Management",
+    "method": "GET",
+    "endpoint": "/api/receiving-confirmation/list",
+    "auth": "N"
+  },
+  {
+    "service": "Invoice Management",
+    "method": "GET",
+    "endpoint": "/api/receiving-confirmation/detail",
+    "auth": "N"
+  },
+  {
+    "service": "Invoice Management",
+    "method": "PUT",
+    "endpoint": "/api/receiving-confirmation/update-status",
+    "auth": "N"
+  },
+  {
+    "service": "Invoice Management",
+    "method": "GET",
+    "endpoint": "/api/mock-sap/detail",
+    "auth": "N"
+  },
+  {
+    "service": "Invoice Management",
+    "method": "POST",
+    "endpoint": "/api/delivery-notes/create",
+    "auth": "N"
+  },
+  {
+    "service": "Invoice Management",
+    "method": "GET",
+    "endpoint": "/api/delivery-notes/detail/delivery-note-number",
+    "auth": "N"
+  },
+  {
+    "service": "Invoice Management",
+    "method": "POST",
+    "endpoint": "/api/receiving-confirmation/create",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/user/getall",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/profile/getall",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/user",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/roleprofile/role-profile-assigned/{id}",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/profile",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/Role/getAll",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "POST",
+    "endpoint": "/api/profile/post",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "POST",
+    "endpoint": "/api/roleprofile/post",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/Role",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/rolemenu",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/RoleAuthorization",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/employee/getall",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/employee",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/rolemenu/lookup/menu",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/rolemenu/lookup/role",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/masterauth/getall",
+    "auth": "N"
+  },
+  {
+    "service": "Account Management",
+    "method": "GET",
+    "endpoint": "/api/masterauth",
+    "auth": "N"
+  }
+]
